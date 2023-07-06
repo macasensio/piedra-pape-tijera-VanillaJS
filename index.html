@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Piedra - Papel - Tijera</title>
+    
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+
+</head>
+<body class="bg-gray-100">
+    <div class="text-center mt-52">
+
+        <h1 class="text-4xl mb-6 font-bold">Piedra, Papel o Tijera</h1>
+        <p class="text-2xl mb-5">Elije:</p>
+        <div class="buttons">
+            <button id="piedra"class ="p-6 bg-sky-600 hover:bg-sky-500 rounded-md m-2 text-5xl cursos-pointer">👊</button>
+            <button id="papel"class ="p-6 bg-lime-600 hover:bg-lime-500 rounded-md m-2 text-5xl cursos-pointer">✋</button>
+            <button id="tijera"class ="p-6 bg-red-600 hover:bg-red-500 rounded-md m-2 text-5xl cursos-pointer">✌️</button>
+        </div>
+
+        <p id="jugadas" class="text-xl mt-4">
+            Usuario: <span id="usuario-jugada"class="text-sky-500 font-bold"></span> 
+            -
+            Computadora: <span id="computadora-jugada"class="text-green-500 font-bold"></span></p>
+
+        <p id="resultado" class="m-12 text-2xl"></p>
+
+        <p id="puntajes" class="text-2xl">
+            Tu puntaje: <span id="user-score" class="text-sky-500"></span> - 
+            Computadora: <span id="computer-score" class="text-green-500"></span>
+        </p>
+    
+    </div>
+
+    <script src="index.js"></script>
+</body>
+</html>
