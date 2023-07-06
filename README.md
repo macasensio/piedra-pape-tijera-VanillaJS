@@ -5,4 +5,4 @@
 - TailwindCSS
 
 #### App
-[https://macasensio.github.io/piedra-pape-tijera-VanillaJS/](https://macasensio.github.io/piedra-pape-tijera-VanillaJS/)
+[https://macasensio.github.io/piedra-papel-tijera-VanillaJS/](https://macasensio.github.io/piedra-papel-tijera-VanillaJS/)
