@@ -5,4 +5,4 @@
 - TailwindCSS
 
 #### App
-[https://main--startling-hummingbird-f6f68c.netlify.app/](https://main--startling-hummingbird-f6f68c.netlify.app/)
+[https://macasensio.github.io/piedra-pape-tijera-VanillaJS/](https://macasensio.github.io/piedra-pape-tijera-VanillaJS/)
